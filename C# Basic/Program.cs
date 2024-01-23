@@ -1,5 +1,7 @@
 ﻿
 
+using System;
+
 namespace C__Basic
 {
 
@@ -23,7 +25,8 @@ namespace C__Basic
             student1.StudentLastName = "Mohamed";
             student1.StudentAge = 20;
 
-            /// Edite ////
+            /// Edite 
+           
 
         }
     }
