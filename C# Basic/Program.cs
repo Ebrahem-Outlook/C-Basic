@@ -23,6 +23,8 @@ namespace C__Basic
             student1.StudentLastName = "Mohamed";
             student1.StudentAge = 20;
 
+            /// Edite ////
+
         }
     }
 }
